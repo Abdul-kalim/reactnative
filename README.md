@@ -60,3 +60,34 @@ This system helps you manage employee information. You can add, update, and dele
 
 - **Manage Employee**:
   - Add, update, and delete employee details.
+
+## Installation
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+### Steps
+
+1. **Clone the repository**:
+   
+   git clone https://github.com/yourusername/employee-management-system.git
+   cd employee-management-system
+
+2. **Install dependencies**:   
+
+    npm install
+
+3 . **Start the application**:
+    
+    npm start
+
+4. Open your browser and go to http://localhost:3000 to see the application.
+
+AND
+
+Scan the QrCode from "Expo Go" app
+   
